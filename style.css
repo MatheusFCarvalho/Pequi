@@ -63,3 +63,28 @@ h1 {
     padding: 8px 12px;
     cursor: pointer;
 }
+
+/* Classe para estilizar com fundo vermelho */
+.red {
+    background-color: #ef6f6c;
+    color: white;
+  }
+  
+  /* Classe para estilizar com fundo azul */
+  .blue {
+    background-color: #028090;
+    color: white;
+  }
+  
+  /* Classe para estilizar com fundo verde */
+  .green {
+    background-color: #19df54;
+    color: white;
+  }
+  
+  /* Classe para estilizar com fundo amarelo */
+  .yellow {
+    background-color: #ffcb1f;
+    color: #262322;
+  }
+  
